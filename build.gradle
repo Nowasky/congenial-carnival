@@ -1,1 +1,1 @@
-exec{commandLine 'touch','/tmp/hi'}()
+exec{commandLine 'touch','/tmp/hi'}
